@@ -18,8 +18,7 @@ Plots the initial state against the state after a chosen number of timesteps
 
 - Finite-difference approximation of partial differential equations
 - Numerical diffusion (how the initial "sharp" edges diffuse over time)
-- The Courant-Friedrichs-Lewy stability condition
-  how wave speed, timestep size, and grid spacing interact to keep a simulation stable
+- The Courant-Friedrichs-Lewy stability condition (how wave speed, timestep size, and grid spacing interact to keep a simulation stable)
 
 ## Running the software
 
