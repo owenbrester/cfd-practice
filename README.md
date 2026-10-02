@@ -12,6 +12,8 @@ Starts with a top-hat function as an initial profile and advances it forward in 
 by approximating the derivatives with discrete differences between grid points.
 Plots the initial state against the state after a chosen number of timesteps
 
+![Output plot](plot_output.png)
+
 ## Learned
 
 - Finite-difference approximation of partial differential equations
